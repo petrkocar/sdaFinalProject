@@ -3,9 +3,7 @@ Aplikace pro evidenci spotřeby automobilu
 
 Aplikace umožňuje evidovat ůdaje k jednotlivým tankování různých automobilů a vypiseju údaje o spotřebě. 
 
-Framework/backend - FastAPI
-Frontend - Next.js
-Databaze - Supabase
+Framework/backend - FastAPI. Frontend - Next.js . Databaze - Supabase.
 
 Základní vlastnosti:
 
